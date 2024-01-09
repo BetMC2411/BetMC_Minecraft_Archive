@@ -435,6 +435,54 @@
       "isLanZouCloud": 0,
       "size": 135715000,
       "type": 1
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.16.210",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.16.210_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [ "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png" ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 128509599,
+      "type": 1
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.16.220",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.16.220_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [ "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png" ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 130113480,
+      "type": 1
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.16.221",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.16.221_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [ "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png" ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 130142663,
+      "type": 1
     }
   ]
 }
