@@ -885,6 +885,24 @@
       "isLanZouCloud": 0,
       "size": 585223379,
       "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.19.11",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.19.11_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 585219823,
+      "type": 2
     }
   ]
 }
