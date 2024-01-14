@@ -1227,6 +1227,258 @@
       "isLanZouCloud": 0,
       "size": 585223379,
       "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.0",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.0_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 678790553,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.0",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.0_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 678790553,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.1",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.1_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 678782749,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.10",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.10_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 679707636,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.12",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.12_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 679708655,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.13",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.13_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 679711728,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.15",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.15_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 679708020,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.30",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.30_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 684012221,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.31",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.31_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 684010096,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.32",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.32_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 684020087,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.40",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.40_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 685276085,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.41",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.41_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 685272116,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.50",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.50_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 687993405,
+      "type": 2
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.20.51",
+      "versionDate": "2024-01-07T00:00:00+07:00",
+      "versionDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "downloadURL": "https://github.com/BetMC2411/BetMC_Minecraft_Archive/releases/download/ipa/Minecraft_1.20.51_decrypted.ipa",
+      "localizedDescription": "Minecraft đã được giải mã bởi BetMC2411",
+      "iconURL": "https://cdn.discordapp.com/attachments/853016957851140096/1193766037594832936/icon.png",
+      "screenshotURLs": [
+        "https://cdn.discordapp.com/attachments/853016957851140096/1194154641257156689/IMG_2764.png"
+      ],
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 688001385,
+      "type": 2
     }
   ]
 }
