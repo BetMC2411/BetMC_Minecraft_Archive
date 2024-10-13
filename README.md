@@ -7,7 +7,11 @@ Hello everyone, I'm BetMC2411, I'm not a developer or anything, I'm just a norma
 
 
 ### 😂Random Dev Meme
-(https://github.com/user-attachments/assets/509ef3f1-3c1a-4ea6-bf54-2129e82dd5c9)
+
+
+https://github.com/user-attachments/assets/ea34766f-86b0-4501-924d-a822e28cab81
+
+
 
 
 ---
