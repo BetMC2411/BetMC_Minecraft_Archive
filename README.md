@@ -7,7 +7,7 @@ Hello everyone, I'm BetMC2411, I'm not a developer or anything, I'm just a norma
 
 
 ### 😂Random Dev Meme
-<video src="https://github.com/BetMC2411/BetMC_Minecraft_Archive/raw/refs/heads/main/received_849206696740194.mp4" width="320" height="240" controls></video>
+<video src="https://media.discordapp.net/attachments/1270867625794338897/1295112717165924392/received_849206696740194_1.mp4" width="320" height="240" controls></video>
 
 
 ---
