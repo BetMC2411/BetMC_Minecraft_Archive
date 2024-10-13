@@ -1,11 +1,14 @@
 # 💫About Me :
 Hello everyone, I'm BetMC2411, I'm not a developer or anything, I'm just a normal person who shares apps and games, And I also understand a little about json code
 
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/duong.truongthanh.3551) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@betmc2411) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/betmc2411)
 
+
 ### 😂Random Dev Meme
-<img src="https://github.com/BetMC2411/BetMC_Minecraft_Archive/raw/refs/heads/main/received_849206696740194.mp4" width="512px"/>
+<video src="https://github.com/BetMC2411/BetMC_Minecraft_Archive/raw/refs/heads/main/received_849206696740194.mp4" width="320" height="240" controls></video>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BetMC2411&icon=0&color=0)](https://visitcount.itsvg.in)
