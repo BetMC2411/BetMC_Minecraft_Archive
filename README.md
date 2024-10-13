@@ -7,7 +7,7 @@ Hello everyone, I'm BetMC2411, I'm not a developer or anything, I'm just a norma
 
 
 ### 😂Random Dev Meme
-![received_849206696740194_1.mp4](https://media.discordapp.net/attachments/1270867625794338897/1295112717165924392/received_849206696740194_1.mp4)
+(https://github.com/user-attachments/assets/509ef3f1-3c1a-4ea6-bf54-2129e82dd5c9)
 
 
 ---
