@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello everyone, I'm BetMC2411, I'm not a developer or anything, I'm just a normal person who shares apps and games, And I also understand a little about json code
+Hello everyone, I'm BetMC2411, I'm not a developer or anything, I'm just a normal person who shares apps and games.
 
 
 ## 🌐Socials
